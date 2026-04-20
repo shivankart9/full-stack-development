@@ -15,3 +15,5 @@
     - website-code
         - index.html
 
+- **Seo**
+    - index.html
