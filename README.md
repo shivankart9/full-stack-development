@@ -18,3 +18,4 @@
     - index.html
 - **forms-and-input-tags**
     - index.html
+    - post.html
