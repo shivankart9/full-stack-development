@@ -1,0 +1,48 @@
+<!-- this program teaches us how to use forms and input tags in html -->
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>learning forms</title>
+ </head>
+ <body>
+    <h1>Form to apply for queries</h1>  <!--heading tag-->
+    <form method = "post" action="post.html"> <!--form tag for making form-->
+        <div> <!--work like br tag but this is better-->
+            <input type = "text" name = "username" placeholder = "enter your name"> <!--input tag type text--> 
+        </div>
+        <div>
+            <input type = "date" name = "dob" placeholder = "enter your dob"> <!--input tag type date--> 
+        </div>
+        <div>
+            <input type ="radio" id = "male" name = "gender" value = "male" > <!--input tag for entering male-->
+            <label for = "male" >Male</label> <!--labeling the input-->
+        
+            <input type = "radio" id = "female" name = "gender" value = "female" > <!--input tag for entering female-->
+            <label for = "female" >Female</label> <!--labeling the input-->
+        
+            <input type = "radio" id = "other" name = "gender" value = "other" > <!--input tag for entering other-->
+            <label for = "other" >Other</label> <!--labeling the input-->
+        </div>
+       <div>
+            <label for = "comment">Enter your query</label>
+            <br>
+            <textarea id = "comment" name = "comment" rows = "4" cols = "50"></textarea>
+       </div>
+       <div>
+        <label for = "interest" >select your interest</label>
+        <select for = "interest" id = "interest"> <!--select tag to select among multiple option-->
+            <option>web development</option> <!--option tag to add options-->
+            <option>app development</option>
+            <option>game development</option>
+            <option>other</option>
+        </select>
+       </div>
+       <div>
+             <input type = "submit" value = "submit" > <!--submit tag -->
+       </div>
+       
+    </form>
+ </body>
+ </html>

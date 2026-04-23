@@ -14,6 +14,7 @@
         - script.js
     - website-code
         - index.html
-
 - **Seo**
+    - index.html
+- **forms-and-input-tags**
     - index.html
