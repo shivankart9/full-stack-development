@@ -5,7 +5,11 @@
 
 ## learning - html 
 - **testing**
-- **Bookmarks-website**
+- **Bookmarks website**
 - **Seo**
-- **forms-and-input-tags**
-- **id-and-classes**
+- **forms and input tags**
+- **id and classes**
+- **learning to add images**
+- **learning to add tables**
+- **video audio and media**
+- **semantic tags**
