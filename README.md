@@ -13,3 +13,4 @@
 - **learning to add tables**
 - **video audio and media**
 - **semantic tags**
+- **entities code tag**
