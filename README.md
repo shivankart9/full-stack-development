@@ -16,3 +16,6 @@
 - **entities code tag**
 ## learning - css
 - **testing**
+- **inline css**
+- **internal css**
+- **external css**
