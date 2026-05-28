@@ -19,3 +19,4 @@
 - **inline css**
 - **internal css**
 - **external css**
+- **css selectors**
