@@ -21,3 +21,4 @@
 - **external css**
 - **css selectors**
 - **css box model**
+- **css fonts**
