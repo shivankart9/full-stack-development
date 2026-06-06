@@ -22,3 +22,4 @@
 - **css selectors**
 - **css box model**
 - **css fonts**
+- **css colors**
