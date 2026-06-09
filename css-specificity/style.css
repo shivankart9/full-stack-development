@@ -1,0 +1,14 @@
+/* if the selector is of same type then last one will win */
+/* priority inline > ID selector > class or attribute selector > element selector > universal selector */
+h1 {
+    color : brown;
+}
+.red {
+    color : red;
+}
+.pink{
+    color :pink;
+}
+.yellow {
+    color : yellow;
+}

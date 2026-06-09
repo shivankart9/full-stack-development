@@ -23,6 +23,7 @@
 - **css box model**
 - **css fonts**
 - **css colors**
+- **css specificity**
 
 ## question-by-harry-sir
 - **css question**
