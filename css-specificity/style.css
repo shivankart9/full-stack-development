@@ -12,3 +12,12 @@ h1 {
 .yellow {
     color : yellow;
 }
+/* id selector*/
+[data-x=a] {
+    background-color : purple;
+}
+
+/* important - it can overwrite inline css */
+h2 {
+    color : blue ! important ; 
+}
