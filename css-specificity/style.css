@@ -12,7 +12,7 @@ h1 {
 .yellow {
     color : yellow;
 }
-/* id selector*/
+/* attribute selector*/
 [data-x=a] {
     background-color : purple;
 }
@@ -20,4 +20,9 @@ h1 {
 /* important - it can overwrite inline css */
 h2 {
     color : blue ! important ; 
+}
+/* specificity : 1+10+10+10 */
+ol.blue.myclass:hover {
+    color : blue;
+    background-color: pink;
 }
