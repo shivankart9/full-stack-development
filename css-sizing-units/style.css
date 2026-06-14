@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{ /* html is a root element */
+    font-size: 12px;
+}
+
+.box{
+    border : 2px solid black;
+    /* width : 1354px; */
+    width : 80vw; /* view width in this we have typed 80 vw means 80 % of  view width of the device */
+    font-size : 3rem; /* rem multiplyes with root element px */
+    margin : 23px auto;
+    background-color: aquamarine;
+}
+
+.box2{
+    border : 2px solid black;
+    /* width : 1354px; */
+    width : 80vw; 
+    height : 80vh; /* view height in this we have typed 80vh means 80% of view height of the device */
+    margin : 23px auto;
+    font-size: 18px;
+    background-color: aquamarine;
+}
+.box2 p{
+    font-size: 2em; /* it inharites but when we type font size as 2em it becomes 2x of inharited font size */
+}
+
+.box3 {
+    background-color: blueviolet;
+    color : yellow;
+    font-size :  22px;
+    width : 100vmin; /* 100vmin = 100vh in laptops 100vmax = 100vw*/
+}
