@@ -1,0 +1,24 @@
+*{
+    margin : 0;
+    padding: 0;
+}
+.box {
+    border : 2px solid blue;
+    color : pink;
+    background-color: purple;
+    display : inline-block; /* we can change a elements property to inline and block by using display property */
+    padding : 45px;
+    margin : 34px;
+    width : 30vw;
+}
+
+.box1 {
+    border : 2px solid blue;
+    color : pink;
+    background-color: purple;
+    display : inline-flex; /* flex is a block to make it inline we write inline-flex*/
+    justify-content: center;
+    padding : 45px;
+    margin : 34px;
+    width : 30vw;
+}
