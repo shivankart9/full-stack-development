@@ -24,7 +24,8 @@
 - **css fonts**
 - **css colors**
 - **css specificity**
-- **css-sizing-units**
+- **css sizing units**
+- **css display property**
 
 ## question-by-harry-sir
 - **css question**
