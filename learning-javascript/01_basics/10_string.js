@@ -12,3 +12,7 @@ console.log(`My name is ${name} I have made ${repoCount} repositries in my githu
 // another method to declare string
 
 const gamename = new String('shivankar')
+
+console.log(gamename[0]) // s
+
+console.log(gamename.__proto__) //{} // this gives the method syntax but in vs code it shoes {} empty brackets but actually it is not empty
