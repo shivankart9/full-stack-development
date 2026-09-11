@@ -17,6 +17,15 @@ console.log(gamename[0]) // s
 
 console.log(gamename.__proto__) //{} // this gives the method syntax but in vs code it shoes {} empty brackets but actually it is not empty
 
+// functions
+
 console.log(gamename.length) // 9
 
 console.log(gamename.toUpperCase()) // SHIVANKAR
+
+// for checking position of string 
+
+console.log(gamename.charAt(7)) // a
+
+console.log(gamename.indexOf('n')) // 5
+
