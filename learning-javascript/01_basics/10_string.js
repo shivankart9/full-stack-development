@@ -45,3 +45,14 @@ const newstringone = "    shivankar    "
 console.log(newstringone) //    shivankar    
 console.log(newstringone.trim()) //shivankar
 
+// replace funcntion
+
+const url = "https://shivankar-tiwari.github.io"
+
+console.log(url.replace('.github.io','.netlify.app')) //https://shivankar-tiwari.netlify.app
+
+// includes function
+console.log(url.includes('shivankar'))
+
+// split
+console.log(gamename.split('-'))
