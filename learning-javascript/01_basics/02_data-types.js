@@ -28,6 +28,8 @@ console.log(typeof age) // number
 
 let tempratue = null
 
+let undefined
+
 console.log(typeof null) // object
 
 console.log(typeof undefined) // undefined
