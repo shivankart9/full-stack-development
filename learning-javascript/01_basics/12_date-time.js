@@ -32,3 +32,11 @@ console.log(myteamstamp) // 1789485740295
 console.log(createddate.getTime()) // 1789497000000
 
 console.log(Math.floor(Date.now()/1000))// 1789486222102
+
+let newdate = new Date()
+console.log(newdate.getDay())
+console.log(newdate.getMonth() + 1) // added one as in js month start from zero
+
+newdate.toLocaleString('default', {
+    weekday: "long",
+})
