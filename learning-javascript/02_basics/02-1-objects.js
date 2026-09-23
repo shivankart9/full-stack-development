@@ -59,3 +59,34 @@ console.log(Object.values(tinderUser))
 console.log(Object.entries(tinderUser))
 
 console.log(tinderUser.hasOwnProperty('isLoggedIn'))
+
+
+// objects de-structure
+
+const course = {
+    coursename: "js In gadwali",
+    price: "800",
+    techer: "youtube"
+}
+
+console.log(course.techer)
+
+// another syntax to print
+const {coursename: cn} = course  // here cn is another name that we have assigned so if we type cn so it wil print coursename value it is not compulsory
+
+console.log(cn)
+
+// json
+
+// {
+//     "name":"shivankar",
+//     "study":"Btech",
+//     "age" : 19
+
+// }
+
+[
+    {},
+    {},
+    {}
+]
