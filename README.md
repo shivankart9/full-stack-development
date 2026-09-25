@@ -29,7 +29,9 @@
 
 ## learning-javascript
 - **test.js**
-- **Basics**
+- **01_Basics**
+- **02_Basics**
+- **03_Basics**
 
 ## question-by-harry-sir
 - **css question**
