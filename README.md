@@ -32,6 +32,9 @@
 - **01_Basics**
 - **02_Basics**
 - **03_Basics**
+- **04_control-flow**
+- **05_loops**
+- **06_dom**
 
 ## question-by-harry-sir
 - **css question**
