@@ -7,9 +7,10 @@
 - toLowerCase
 
 ## why use OOP
+- As code became messy so OOP was introduced
 
 ## parts of OOP
-object litreal
+object literal
 
 - Constructor function
 - Prototypes
@@ -18,7 +19,7 @@ object litreal
 - Polymorphism
 
 ## 4 pillars
-Abstraction
-Encapsulation
-Inheritance
-Polymorphism
+- Abstraction
+- Encapsulation
+- Inheritance
+- Polymorphism
