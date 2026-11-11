@@ -35,6 +35,9 @@
 - **04_control-flow**
 - **05_loops**
 - **06_dom**
+- **07_events**
+- **08_classes_and_oop**
+- **advance_01**
 
 ## question-by-harry-sir
 - **css question**
